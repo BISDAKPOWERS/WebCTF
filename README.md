@@ -2,7 +2,8 @@
 
 ## Installation for development
 
-In mobile, you should have the following app.
+In mobile, you should have the following app and files.
+	- composer.phar
 	- Termux
 		* Termux Packages:
 			* PHP
@@ -19,6 +20,13 @@ In mobile, you should have the following app.
 	
 ## ToDos
 
+###Composer:
+Connect Laravel/Cashier
+Connect Laravel/Envoy
+Connect Laravel/Horizon
+Connect Laravel/Socialite
+
+###Nodejs:
 Connect Vuejs
 Connect Vue-Static-Terminal
 Connect Vue-Choropleth
