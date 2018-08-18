@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Mail;
+namespace WebCTF\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Mail\Mailable;

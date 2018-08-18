@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace WebCTF\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
