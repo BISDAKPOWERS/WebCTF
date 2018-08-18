@@ -2,7 +2,8 @@
 
 ## Installation for development
 
-In mobile, you should have the following app and files.
+In mobile, you should have the following requirements, apps and files.
+- rooted system
 - composer.phar
 - Termux
 	* Termux Packages:
