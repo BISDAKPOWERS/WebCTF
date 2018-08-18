@@ -3,15 +3,15 @@
 ## Installation for development
 
 In mobile, you should have the following app and files.
-	- composer.phar
-	- Termux
-		* Termux Packages:
-			* PHP
-			* Git
-			* All SSH packages for compatibility concerns
-			* Yarn
-			* Nodejs
-			* MariaDB
+- composer.phar
+- Termux
+	* Termux Packages:
+	* PHP
+	* Git
+	* All SSH packages for compatibility concerns
+	* Yarn
+	* Nodejs
+	* MariaDB
 
 	Steps:
 	1st - php composer.phar install
