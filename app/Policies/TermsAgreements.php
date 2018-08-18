@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Policies;
+namespace WebCTF\Policies;
 
-use App\User;
+use WebCTF\User;
 use Illuminate\Auth\Access\HandlesAuthorization;
 
 class TermsAgreements

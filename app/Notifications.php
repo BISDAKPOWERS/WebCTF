@@ -4,7 +4,7 @@ namespace WebCTF;
 
 use Illuminate\Database\Eloquent\Model;
 
-class Titles extends Model
+class Notifications extends Model
 {
     //
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace WebCTF;
 
 use Illuminate\Database\Eloquent\Model;
 
