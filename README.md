@@ -13,10 +13,10 @@ In mobile, you should have the following app and files.
 	* Nodejs
 	* MariaDB
 
-	Steps:
-	1st - php composer.phar install
-	2nd - npm install
-	3rd - php artisan serve
+Steps:
+   1st - php composer.phar install
+   2nd - npm install
+   3rd - php artisan serve
 	
 ## ToDos
 
