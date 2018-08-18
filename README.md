@@ -1,7 +1,14 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+# WebCTF
 
 ## Installation for development
+### Setup
+- `git clone https://github.com/BISDAKPOWERS/WebCTF.git`
+- `composer install`
+- `npm install`
+- `cp .env.example .env`
+- `php artisan migrate:refresh && php artisan db:seed`
 
+### Mobile environment
 In mobile, you should have the following app and files.
 - composer.phar
 - Termux
@@ -13,24 +20,4 @@ In mobile, you should have the following app and files.
 	* Nodejs
 	* MariaDB
 
-Steps:
-   1st - php composer.phar install
-   2nd - npm install
-   3rd - php artisan serve
-	
 ## ToDos
-
-###Composer:
-Connect Laravel/Cashier
-Connect Laravel/Envoy
-Connect Laravel/Horizon
-Connect Laravel/Socialite
-
-###Nodejs:
-Connect Vuejs
-Connect Vue-Static-Terminal
-Connect Vue-Choropleth
-
-## License
-
-The WebCTF is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
