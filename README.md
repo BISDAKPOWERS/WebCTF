@@ -14,22 +14,22 @@ In mobile, you should have the following app and files.
 	* MariaDB
 
 Steps:
-   1st - php composer.phar install
-   2nd - npm install
-   3rd - php artisan serve
+ * 1st - php composer.phar install
+ * 2nd - npm install
+ * 3rd - php artisan serve
 	
 ## ToDos
 
-###Composer:
-Connect Laravel/Cashier
-Connect Laravel/Envoy
-Connect Laravel/Horizon
-Connect Laravel/Socialite
+### Composer:
+- Connect Laravel/Cashier
+- Connect Laravel/Envoy
+- Connect Laravel/Horizon
+- Connect Laravel/Socialite
 
-###Nodejs:
-Connect Vuejs
-Connect Vue-Static-Terminal
-Connect Vue-Choropleth
+### Nodejs:
+- Connect Vuejs
+- Connect Vue-Static-Terminal
+- Connect Vue-Choropleth
 
 ## License
 
