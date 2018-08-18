@@ -8,8 +8,9 @@
 - `cp .env.example .env`
 - `php artisan migrate:refresh && php artisan db:seed`
 
-### Mobile environment
-In mobile, you should have the following app and files.
+### Mobile Environment
+In mobile, you should have the following requirements, apps and files.
+- rooted system
 - composer.phar
 - Termux
 	* Termux Packages:
