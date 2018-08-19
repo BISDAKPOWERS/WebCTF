@@ -23,3 +23,7 @@ In mobile, you should have the following requirements, apps and files.
 	* MariaDB
 
 ## ToDos
+
+
+## Plans / System Map
+[Click me](https://mm.tt/1135944115?t=Lj6GyD2ltw)
