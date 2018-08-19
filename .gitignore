@@ -9,5 +9,5 @@ npm-debug.log
 yarn-error.log
 .env
 composer.phar
-composer-lock.json
+composer.lock
 package-lock.json
