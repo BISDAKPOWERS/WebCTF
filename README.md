@@ -1,4 +1,5 @@
 # WebCTF
+As the name implies. WebCTF is a Web based Capture The Flag game.  A hacking game whereas you can hack anybody, any system.
 
 ## Installation for development
 ### Setup
